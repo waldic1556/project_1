@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\OneDrive\\Desktop\\serv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED5BAEC-F172-4633-B8F9-6B990FA3FCA2}|Lab5Database\\Lab5Database.csproj|c:\\users\\msi\\onedrive\\desktop\\serv\\lab5database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED5BAEC-F172-4633-B8F9-6B990FA3FCA2}|Lab5Database\\Lab5Database.csproj|solutionrelative:lab5database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Desktop\\serv\\Lab5Database\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5Database\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Desktop\\serv\\Lab5Database\\Program.cs",
+              "RelativeToolTip": "Lab5Database\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:25:18.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
